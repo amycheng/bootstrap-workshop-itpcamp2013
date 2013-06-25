@@ -1,4 +1,4 @@
-Creating Website with Twitter Bootstrap
+Creating Websites with Twitter Bootstrap
 =======================================
 ITP Camp 2013
 
