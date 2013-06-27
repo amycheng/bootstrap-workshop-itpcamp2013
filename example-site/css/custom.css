@@ -1,0 +1,29 @@
+/*Custom CSS*/
+
+.container {
+    border: 1px dotted black;
+    width: 960px;
+    /*WHY DID I NEED TO SET THIS?! i shouldn't have*/
+}
+
+.row {
+    border: 1px dotted gray;
+}
+
+#header {
+    background-color: pink;
+}
+
+.span6 {
+    background-color: rgba(255,0,0,.5);
+}
+
+#sidebar {
+    width: 200px;
+    background-color: black;
+    color: white;
+}
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
+    background-color: pink;
+}
